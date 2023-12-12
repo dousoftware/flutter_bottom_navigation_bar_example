@@ -1,16 +1,6 @@
-# flutter_bottom_navigation_bar_example
+Flutter Bottom Navigation Bar Örneği
 
-A new Flutter project.
+Flutter Bottom Navigation Bar Example
 
-## Getting Started
+![Ekran görüntüsü 2023-12-13 001507](https://github.com/dousoftware/flutter_bottom_navigation_bar_example/assets/60797535/e01aa891-cfc2-45e8-bad2-24262f53a284)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
